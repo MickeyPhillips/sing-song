@@ -20,3 +20,7 @@ Sing Song is a karaoke-like web app.
   - bootstrap/react-bootstrap
   - spotify-web-api-node
   - react-spotify-web-playback
+  
+  ### Hosting
+  - netlify for the client application
+  - railway for the server application
